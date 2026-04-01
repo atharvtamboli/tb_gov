@@ -1,0 +1,7 @@
+streamlit
+pandas
+supabase
+twilio
+flask
+python-dotenv
+schedule
